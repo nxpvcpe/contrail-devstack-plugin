@@ -39,7 +39,7 @@ libzookeeper-mt-dev
 
 #cassandra-driver
 
-libtool-bin # 16.04
+libtool # 16.04
 
 #in opencontrail ppa
 libipfix-dev
@@ -61,3 +61,5 @@ libpcre3-dev
 libgrok1
 libtokyocabinet-dev
 liblz4-dev
+libsasl2-2
+libsasl2-dev
